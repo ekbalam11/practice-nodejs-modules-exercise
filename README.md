@@ -22,4 +22,4 @@ Hemos creado un código que se encarga de sumar todos los elementos del array _a
 
 # Ejercicio 4
 
-Ejecuta el script. Si has implementado bien el ejercicio anterior deberías ver por consola la media de 3 arrays diferentes.
+Ejecuta el script. Si has implementado bien el ejercicio anterior deberías ver por consola la media de 3 arrays diferen
